@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jerry Yim
+- 👋 Hi, I’m Jevin Yim
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
